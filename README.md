@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+Full Stack Course Management App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app have 2 parts of Frond End and Back End and was written in TypeScript
 
 ## Available Scripts
 
